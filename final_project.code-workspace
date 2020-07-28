@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "/Users/aynurquluzade/Desktop/test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"__split_buffer": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"utility": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp",
+			"iosfwd": "cpp",
+			"iterator": "cpp",
+			"bitset": "cpp",
+			"limits": "cpp",
+			"__tree": "cpp",
+			"initializer_list": "cpp",
+			"map": "cpp",
+			"string_view": "cpp",
+			"valarray": "cpp",
+			"__locale": "cpp",
+			"__string": "cpp",
+			"typeinfo": "cpp",
+			"ios": "cpp"
+		}
+	}
+}
